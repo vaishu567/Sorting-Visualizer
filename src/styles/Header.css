@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+.header{
+    margin-top: 0;
+    background-color: #3a7ca5;
+    height: 27vh;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    justify-content: space-between;
+    width:fit-content;
+
+
+}
+.title{
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+
+
